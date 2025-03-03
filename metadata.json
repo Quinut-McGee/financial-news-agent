@@ -1,0 +1,22 @@
+{
+  "name": "news-agent",
+  "version": "0.1.5",
+  "category": "agent",
+  "description": "Dailies, dailies, read all about it! This agent delivers the latest information in financial markets.",
+  "tags": ["finance", "news", "market", "analysis"],
+  "details": {
+    "agent": {
+      "welcome": {
+        "title": "Financial News Agent",
+        "description": "Your AI financial digest: Transforming overwhelming market news into accessible insights. Stay informed on global financial developments without spending hours reading—perfect for busy professionals."
+      },
+      "defaults": {
+        "model": "llama-v3p1-70b-instruct",
+        "model_max_tokens": 16384,
+        "model_provider": "fireworks",
+        "model_temperature": 1
+      }
+    }
+  },
+  "show_entry": true
+}

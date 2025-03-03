@@ -1,0 +1,1901 @@
+{
+  "processed_pdfs": {
+    "Barrons_02.24.2025.pdf": {
+      "processed_date": "2025-02-26",
+      "file_hash": "85bc1ad6a804cec7de582e22109df722",
+      "source": "Barrons",
+      "pub_date": "2025-02-24"
+    },
+    "The_Wall_Street_Journal-22_February_2025.pdf": {
+      "processed_date": "2025-02-26",
+      "file_hash": "6d8da01c4e6f904e3d107122ab119a33",
+      "source": "WSJ",
+      "pub_date": "2025-02-22"
+    },
+    "FT_2.22.25.pdf": {
+      "processed_date": "2025-02-26",
+      "file_hash": "c0d04be55d4f8b81467cab82a4741661",
+      "source": "FT",
+      "pub_date": "2025-02-22"
+    },
+    "The_Economist_22.02.25.pdf": {
+      "processed_date": "2025-02-26",
+      "file_hash": "ac96a4fa9b692b63fe2c14f81b81338f",
+      "source": "Economist",
+      "pub_date": "2025-02-25"
+    }
+  },
+  "sources": {
+    "Barrons": [
+      {
+        "id": 1,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "TIME TO BREAK UP COMCAST? - PAGE 11 BARRONS VOL.CV NO.8 FEBRUARY 24, 2025 $5.00 The New Winners a...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T09:19:07.411039"
+      },
+      {
+        "id": 2,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "By MALLIKA MITRA 02.24.25 VOL.CV NO.8 Barron\u2019s Roundtable on Fox Business Watch our TV show Satur...",
+        "categories": [
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T09:19:07.412907"
+      },
+      {
+        "id": 3,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "P.55 Retirement: DOGE Comes for Medicare Potential budget cuts stemming from Elon Musk\u2019s Departme...",
+        "categories": [
+          "Stocks",
+          "Inflation",
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T09:19:07.434889"
+      },
+      {
+        "id": 4,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "BY ANDREW BARY omcast has a discounted stock, a lucrative business, and a restive shareholder bas...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T09:19:07.440213"
+      },
+      {
+        "id": 5,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "CULLEN FUNDS \u201cEmerging Markets are broad and vast; we believe that investing in long term themes,...",
+        "categories": [
+          "Stocks",
+          "Energy",
+          "Inflation"
+        ],
+        "processed_at": "2025-02-26T09:19:07.457363"
+      },
+      {
+        "id": 6,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "BY MALLIKA MITRA inancial advisor Patti Black works with a 36-year-old small-business owner who h...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T09:19:07.462525"
+      },
+      {
+        "id": 7,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "BY KAREN HUBE eing a sustainable com- pany is tougher to sustain these days. Critics of environme...",
+        "categories": [
+          "Energy"
+        ],
+        "processed_at": "2025-02-26T09:19:07.478609"
+      },
+      {
+        "id": 8,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "BY AMEY STONE igh-yield bonds appear to be overvalued right now, but that doesn\u2019t mean investors ...",
+        "categories": [
+          "Stocks",
+          "Inflation",
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T09:19:07.482151"
+      },
+      {
+        "id": 9,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "BY KARISHMA VANJANI or weeks now, job cuts have ripped through one federal agency after another, ...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T09:19:07.490409"
+      },
+      {
+        "id": 10,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "TECH TRADER Intel shouldn't discuss selling itself for parts while trying to find a chief executi...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T09:19:07.492189"
+      },
+      {
+        "id": 11,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "BY TAE KIM Intel (INTC / Nasdaq) $50 45 40 35 30 25 15 March 2024 Source: FactSet sure the negoti...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T09:19:07.495638"
+      },
+      {
+        "id": 12,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "BY RESHMA KAPADIA ndrea Auerbach launched her career in private-mar- ket investing in the early 1...",
+        "categories": [
+          "Stocks",
+          "Inflation"
+        ],
+        "processed_at": "2025-02-26T09:19:07.504122"
+      },
+      {
+        "id": 13,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "P.36 + \" 13D Filings P,33 Dow Jones Industrials 43,428.02 52-wk: +10.98% YTD: +2.08% Wkly: -2.51%...",
+        "categories": [
+          "Stocks",
+          "Inflation",
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T09:19:07.513420"
+      },
+      {
+        "id": 14,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "SELECT SECTOR Few countries in the world stimulate the five senses as much as India. Curated by I...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T09:19:07.517540"
+      },
+      {
+        "id": 15,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "BY CRAIG MELLOW resident Donald Trump\u2019s esti- mates of Ukraine\u2019s strategic min- eral wealth are p...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T09:19:07.521713"
+      },
+      {
+        "id": 16,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "THE STRIKING PRICE Skeptics will attribute the run-up to investor en- thusiasm for crypto and opt...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T09:19:07.525381"
+      },
+      {
+        "id": 17,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "TTT MAM JJ A SO ND J F Source: Credit Suisse Equity Derivatives Strategy Skew indicates whether t...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T09:19:07.528026"
+      },
+      {
+        "id": 18,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "INSIDE SCOOP Oracle Director Buys Stock After a 3-Year Gap BY ED LIN racle stock has backed away ...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T09:19:07.600672"
+      },
+      {
+        "id": 19,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "DATA PROVIDED BY LIPPER BARRONS.COM/DATA Net YTD 3-Yr. NAV Chg. %Ret. %Ret. Net YTD 3-Yr. NAV Chg...",
+        "categories": [
+          "Stocks",
+          "Inflation",
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T09:19:07.635981"
+      },
+      {
+        "id": 20,
+        "source": "Barrons",
+        "date": "2025-02-24",
+        "title": "RETIREMENT MAILBAG Medicare Is in DOGE\u2019s Crosshairs. Get Ready. BY ELIZABETH O'BRIEN edicare isn\u2019...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T09:19:07.643126"
+      }
+    ],
+    "WSJ": [
+      {
+        "id": 21,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "THE WALL STREET JOURNAL WEEKEND [> Dow JONES | News Corp x x xxx xxx SATURDAY/SUNDAY, FEBRUARY 22...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.409520"
+      },
+      {
+        "id": 22,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By KAREN LANGLEY Warren Buffett is known for picking stocks. These days, he is increasingly picki...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.411641"
+      },
+      {
+        "id": 23,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By DAVE MICHAELS AND Vicky GE HUANG Regulators have agreed to drop a lawsuit against Coin- base t...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.414192"
+      },
+      {
+        "id": 24,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By MOL y BALL AND OLIVIA BEAVERS It was a few days before the Super Bowl, and House Speaker Mike ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.421983"
+      },
+      {
+        "id": 25,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By CorINNE RAMEY A lawyer for accused Unit- edHealth executive killer Luigi Mangione on Friday pr...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.427772"
+      },
+      {
+        "id": 26,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "THE WALL STREET JOURNAL 200 Burnett Rd. Chicopee, MA 01020. final acceptance of the advertiser's ...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.429376"
+      },
+      {
+        "id": 27,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By JENNIFER CALFAS Los Angeles Mayor Karen Bass dismissed the city\u2019s fire chief following her man...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.433673"
+      },
+      {
+        "id": 28,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "PACIFIC OCEAN \u2014J) Spiller attempts to evacuate from|fiome! but traffic forces her to turn around....",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.435845"
+      },
+      {
+        "id": 29,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "SANTA MONICA Shortly after noon, firefight- ers shared reports of home- owners unable to access a...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.438197"
+      },
+      {
+        "id": 30,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "USE WASHINGT White House press secretary Karoline Leavitt The AP said Jan. 23 that its style guid...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.446072"
+      },
+      {
+        "id": 31,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "ALLISON ROBBERT FOR WSJ House Speaker Mike Johnson hopes to bring a budget blueprint to a vote in...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.450653"
+      },
+      {
+        "id": 32,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By MariAH TIMMS AND KRISTINA PETERSON WASHINGTON-\u2014A judge on Friday allowed the Trump ad- ministr...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.452324"
+      },
+      {
+        "id": 33,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By JAMES FANELLI AND CORINNE RAMEY A federal judge said Friday he will hold off ruling on the Jus...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.457214"
+      },
+      {
+        "id": 34,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By MICHELLE HACKMAN AnD JOSH DAWSEY WASHINGTON\u2014The acting director of U.S. Immigration and Custom...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.461767"
+      },
+      {
+        "id": 35,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "KKK KK KKK THE WALL STREET JOURNAL. U.S. NEWS At Town Halls, Republicans Take Heat for Trump\u2019s Mo...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.464649"
+      },
+      {
+        "id": 36,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "CITY OF ROSWELL Trump administration placed a temporary freeze on federal loans and grants, affec...",
+        "categories": [
+          "Stocks",
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T10:00:01.476363"
+      },
+      {
+        "id": 37,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By SUMMER SAID AND ANAT PELED Israel warned Hamas on Fri- day that it will face conse- quences if...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.480724"
+      },
+      {
+        "id": 38,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By ANAT PELED Awnp Rory JONES At Tel Aviv\u2019s makeshift Hostage Square, a clock counts the days, ho...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.482962"
+      },
+      {
+        "id": 39,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "AMIT ELKAYAM FOR WSJ Is Set to The families of those hos- tages, represented by the Hos- tages an...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.485655"
+      },
+      {
+        "id": 40,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By AustIN RAMzy HONG KONG\u2014The militar- ies of China and Russia, Amer- ica\u2019s top two global advers...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.491454"
+      },
+      {
+        "id": 41,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By YAROSLAV TROFIMOV President Trump\u2019s abrupt and enthusiastic embrace of Russia and its authorit...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.499144"
+      },
+      {
+        "id": 42,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "VATICAN CITY Pope\u2019s Doctors Give : Balanced Prognosis Pope Francis isn\u2019t at immi- : nent risk of ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.501115"
+      },
+      {
+        "id": 43,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "WORLD WATCH ; 3 SE os = age . = Bat GOTTA DANCE: A rehearsal for the coming Jhumur Festival drew ...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.505929"
+      },
+      {
+        "id": 44,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "FROM PAGE ONE Canada, U.S. Come To Blows Continued from Page One couraging them to lessen their d...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.528128"
+      },
+      {
+        "id": 45,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By Bryce While most of his Chinault and speech focused on Andrew state-specific issues Fowler suc...",
+        "categories": [
+          "Energy"
+        ],
+        "processed_at": "2025-02-26T10:00:01.542300"
+      },
+      {
+        "id": 46,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "LETTERS TO THE EDITOR Trump Should Opt for Jefferson Over Jackson Peggy Noonan summarizes the po-...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.544786"
+      },
+      {
+        "id": 47,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "BARBARA FOTINE ATKINS North Las Vegas, Nev. Alan Dershowitz makes several good points in his Feb....",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.547504"
+      },
+      {
+        "id": 48,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "HERB ZIMMERMAN Charlotte, N.C. Our Eyes Are Less Cloudy Thanks to Kelman Regarding Andrew Lam\u2019s F...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.550276"
+      },
+      {
+        "id": 49,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "THE WALL STREET JOURNAL TEXENES. \u201cI\u2019m less of a foodie and more of a drinkie.\u201d THE WALL STREET JO...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.551074"
+      },
+      {
+        "id": 50,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By Peggy Noonan hen you think aloud for a living you\u2019re lately getting a lot of wry comments like...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.557349"
+      },
+      {
+        "id": 51,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By Sierra Dawn McClain recent meme showed a young man shopping for Valentine\u2019s Day. \u201cImpress her ...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.576554"
+      },
+      {
+        "id": 52,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By STEPHEN WILMOT -._ 45, Fipaaess as ESS The Ferrari horse in Maranello, Italy, where the compan...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.578557"
+      },
+      {
+        "id": 53,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By CRAIG KARMIN AND DEBORAH ACOSTA West Palm Beach, Fla. WHEN MAYOR KEITH JAMES first met billion...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.580560"
+      },
+      {
+        "id": 54,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "INTEL A INTC 16% Two Intel rivals are eyeing deals that would break the storied chip maker in two...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.582257"
+      },
+      {
+        "id": 55,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "UNITEDHEALTH GROUP Vv The Department of Justice is investigating United- UNH Health Group, the Jo...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.583850"
+      },
+      {
+        "id": 56,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "CONSTELLATION BRANDS A The Oracle of Omaha is betting on Modelo. STZ Warren Buffett\u2019s Berkshire 0...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.590903"
+      },
+      {
+        "id": 57,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By MicaH MAIDENBERG hen Jared Isaacman gave up his child- hood dream of becoming a NASA astronaut...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.612911"
+      },
+      {
+        "id": 58,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "MARKETS DIGEST Dow Jones Industrial Average S&P 500 Index Nasdaq Composite Index Last Year ago La...",
+        "categories": [
+          "Commodities",
+          "Inflation",
+          "Bonds",
+          "Energy",
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.672312"
+      },
+      {
+        "id": 59,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "PNC PKX PPG -11.49 169.52 108.86 TollBros TOL 08 8111.48 -2.43 495.68 302.26 TopBuild BLD _... 15...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.703826"
+      },
+      {
+        "id": 60,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By Kirk MALTAIS The tariffs targeting alumi- num imports into the U.S. have buyers scrambling to ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.707714"
+      },
+      {
+        "id": 61,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By STUART CONDIE SYDNEY\u2014U.S. real-estate advertiser and analytics pro- vider CoStar is looking to...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.710167"
+      },
+      {
+        "id": 62,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By JOSEPH WALKER Shares of obesity-drug maker Novo Nordisk rose Friday after the Food and Drug Ad...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.711975"
+      },
+      {
+        "id": 63,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By YusuFr KHAN Oil-and-gas companies and renewable-energy groups are teaming up to save a Biden-e...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.716094"
+      },
+      {
+        "id": 64,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By NAJAT KANTOUAR Banijay Entertainment is seeking to expand its footprint in English-speaking ma...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.718925"
+      },
+      {
+        "id": 65,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "COMMERCIAL REAL ESTATE UCC Public Sale Notice Please take notice that Eastdil Secured, L.L.C., on...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.725955"
+      },
+      {
+        "id": 66,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "ISLAND FOR SALE Bahamas Safe: NO TAXES - INCOME or ESTATE 42 Years of owning and enjoying paradis...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.727898"
+      },
+      {
+        "id": 67,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "THYSSENKRUPP Buyer Ends Talks For Steel Venture Thyssenkrupp said talks with a potential buyer of...",
+        "categories": [
+          "Stocks",
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T10:00:01.733700"
+      },
+      {
+        "id": 68,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By ELENA VARDON The U.K.\u2019s competition reg- ulator is fining Citi, HSBC, Morgan Stanley and Royal...",
+        "categories": [
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T10:00:01.736669"
+      },
+      {
+        "id": 69,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By Maria ARMENTAL Private-equity executives entered 2025 with high hopes for a dealmaking recover...",
+        "categories": [
+          "Infrastructure"
+        ],
+        "processed_at": "2025-02-26T10:00:01.740504"
+      },
+      {
+        "id": 70,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By CoLin KELLAHER Cash-strapped gene-ther- apy company Bluebird bio agreed to be acquired by pri-...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.743026"
+      },
+      {
+        "id": 71,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By DENNY JACOB President Trump\u2019s media company is moving forward with plans to create a strate- g...",
+        "categories": [
+          "Stocks",
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T10:00:01.761148"
+      },
+      {
+        "id": 72,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "PROJECTIONS 1965 '70 80 90 10 \u201820 30 \u201840 50 \u201cDefense spending after 2023 extrapolated on the assu...",
+        "categories": [
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T10:00:01.768071"
+      },
+      {
+        "id": 73,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By JOEL STEIN s you probably recall, I had a mole removed about a year ago. As fresh as this is i...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.774575"
+      },
+      {
+        "id": 74,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "PERSONAL SPACE KATIE ROIPHE AT A CURRICULUM NIGHT, my son\u2019s English teacher told Tutors do the ga...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.779212"
+      },
+      {
+        "id": 75,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By YAROSLAV TROFIMOV ast July, Russian occupation au- thorities in the Ukrainian city of Luhansk ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.784070"
+      },
+      {
+        "id": 76,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "NVVLUQNONARULEAAY ANIM ~ il a \u201cvirus of Ukrainian-ness.\u201d Former Russian President Dmitry Medvedev...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.790076"
+      },
+      {
+        "id": 77,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By STEVE MAGNESS single-minded, relent- less drive\u2014that\u2019s what it takes to be success- ful. Be \u201ca...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.793151"
+      },
+      {
+        "id": 78,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "SCIENCE SHORTS Did Lead Lower The IQs of ative interests out- side of their research. The _ prize...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.799958"
+      },
+      {
+        "id": 79,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By Jon MooALLEM he UCLA economist Donald Shoup spent his career studying parking. Virtually alone...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.809313"
+      },
+      {
+        "id": 80,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By DANIEL YERGIN OU f\u2014ing Ameri- \u20184 cans. Who are you to tell us, the rest of the world, that we'...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.812100"
+      },
+      {
+        "id": 81,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By JOSEPH EPSTEIN RITING cannot be taught but it can be learned. A para- dox? A Zen koan? Perhaps...",
+        "categories": [
+          "Bonds",
+          "Energy"
+        ],
+        "processed_at": "2025-02-26T10:00:01.822160"
+      },
+      {
+        "id": 82,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "ON ANTIHEROES ms The Prime of Miss Jean Brodie By Muriel Spark (1961) This is the tragicomic stor...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.829815"
+      },
+      {
+        "id": 83,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By TUNKU VARADARAJAN WAR GAMES Taiwanese military personnel during a training exercise in July 20...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.841612"
+      },
+      {
+        "id": 84,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By ABIGAIL DEUTSCH OBERT Frost\u2019s poem \u201cAyla Brook\u201d concludes with a resounding claim: \u201cWe love th...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.850321"
+      },
+      {
+        "id": 85,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By Sophie Madeline Dess the form of a hard-boiled detec- tive novel. Its story launches from the ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.853896"
+      },
+      {
+        "id": 86,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By Max NorMAN HE ITALIAN artist Maurizio Catte- lan\u2019s \u201cComedian\u201d consists of a banana duct-taped ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.859520"
+      },
+      {
+        "id": 87,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By Matthew Goodman Ballantine, 448 pages, $30 NOVELISTS WOULD be hard- pressed to imagine a more ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.862501"
+      },
+      {
+        "id": 88,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By Rosie Whitehouse Union Square, 256 pages, $27.99 WHY DID A stranger \u201cstand up to evil\u201d to save...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.865404"
+      },
+      {
+        "id": 89,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By JAMES CAMPBELL RNEST Hemingway\u2019s World War I novel, \u201cA Farewell to Arms\u201d (1929), is an excep- ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.876637"
+      },
+      {
+        "id": 90,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "DANIEL AKST Cell Blocks 1. Former Rep. Lori O A. Emmanuel Chavez-DeRemer Macron Divide the grid a...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.885175"
+      },
+      {
+        "id": 91,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "THE REVIVAL OF THE DARK MERINO. While most farmers overlook these rarities, one fell madly in lov...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.887437"
+      },
+      {
+        "id": 92,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "FROM EXCEPTION TO EXCEPTIONAL. We are the proud purveyors of Pecora Nera\u00ae, not just for the exqui...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.889625"
+      },
+      {
+        "id": 93,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By CATHERINE ROMANO HE STEADY DRIFT away from lab-like kitchens continues. \u201cSure, we all see the ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.891842"
+      },
+      {
+        "id": 94,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "NO ROOM FOR CLOTHES AT THE INN Why hotels are increasingly eliminating closets and dressers D11 D...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.898935"
+      },
+      {
+        "id": 95,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By FREYA DROHAN OS ANGELES designer Pia Mance, 28, launched her jewelry brand Heaven Mayhem in 20...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.904401"
+      },
+      {
+        "id": 96,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By SARAH SPELLINGS ETA ANNOUNCED in 2020 that it was end- ing its long-running \u201cYd Rather Go Nake...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.914529"
+      },
+      {
+        "id": 97,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "MORE MUFFIN TIPS > A higher baking tem- perature yields a higher dome. Sheehan will start. : her ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:00:01.923746"
+      },
+      {
+        "id": 98,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "BALANCE DUE 120.88 113.00 7.08 120.08 wa je e@ u ' cae \u2018 eoooudOOOOm8O8 ON WINE / LETTIE TEAGUE |...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.931447"
+      },
+      {
+        "id": 99,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By Mark ELLwoop NPACKING in hotels nowadays can feel like a game of chance. Take the Skinopi Lodg...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.936610"
+      },
+      {
+        "id": 100,
+        "source": "WSJ",
+        "date": "2025-02-22",
+        "title": "By ALEXANDER LOBRANO HEN my family set off on a sum- mertime Rhine voyage in 1978, gristly sausag...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:00:01.949326"
+      }
+    ],
+    "FT": [
+      {
+        "id": 101,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "FT Weekend USA $4.00 HSI Europe cannot rely on Trump, warns Merz @ Stark warning on eve of German...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.272164"
+      },
+      {
+        "id": 102,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "EEE EEE EEE EEE EEE EEE EEE EEE EE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EE...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.289144"
+      },
+      {
+        "id": 103,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "STOCK MARKETS Feb 21 Prev %chg S&P 500 6081.84 6117.52 -0.58 Nasdaq Composite 19809.29 1996236 -0...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:44:07.293441"
+      },
+      {
+        "id": 104,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "OF MILES AND COUNTING First Rivi fit 1 GOVERNMENT BONDS Yield (%) Feb 21 Prev Chg US 2 yr 424 426...",
+        "categories": [
+          "Inflation"
+        ],
+        "processed_at": "2025-02-26T10:44:07.297299"
+      },
+      {
+        "id": 105,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "INTERNATIONAL 22 February/23 February 2025 Pee eee ee Pee PPPS Eee CPP ee eee ee eee ee eee ee ee...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.305512"
+      },
+      {
+        "id": 106,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "FINANCIAL TIMES 330 Hudson Street, New York, NY 10013 Good Friday, Independence Day, Thanksgiving...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.315614"
+      },
+      {
+        "id": 107,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "INTERNATIONAL Pee eee PERE ST CESS Pee See eee cee Pee ee Pee eee eee eee eee ee Pee eee Pee eee ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.328286"
+      },
+      {
+        "id": 108,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "RAPHAEL MINDER AND NATALIA SAWKA WARSAW Poland\u2019s nationalist opposition has amplified its conflic...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.334665"
+      },
+      {
+        "id": 109,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "INTERNATIONAL Pee eee PERE SS PESO Cee eee See eee Pee eee ee eee ee eee eee eee Pee eee eee ee e...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.371825"
+      },
+      {
+        "id": 110,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "THE REVIVAL OF THE DARK MERINO. While most farmers overlook these rarities, one fell madly in lov...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.375835"
+      },
+      {
+        "id": 111,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "FROM EXCEPTION TO EXCEPTIONAL. We are the proud purveyors of Pecora Nera\u00ae, not just for the exqui...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.390379"
+      },
+      {
+        "id": 112,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "FINANCIAL TIMES \u201cWithout fear and without favour\u2019 fq: ie FT Weekend America has turned on its fri...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.409035"
+      },
+      {
+        "id": 113,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "EERSTE EE EEE EEE EEE EERE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EEE EE EEE EEE EEE EE EEE ...",
+        "categories": [
+          "Commodities"
+        ],
+        "processed_at": "2025-02-26T10:44:07.425273"
+      },
+      {
+        "id": 114,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "TIM BRADSHAW AND LUCY FISHER \u2014 LONDON Apple is withdrawing its most secure cloud storage service ...",
+        "categories": [
+          "Infrastructure"
+        ],
+        "processed_at": "2025-02-26T10:44:07.441935"
+      },
+      {
+        "id": 115,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "SEER EEE EERE EERE EE EEE EEE EEE EE EEE EE EERE EEE EEE EERE EEE EEE EERE EE EERE EE EERE E EERE...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.446566"
+      },
+      {
+        "id": 116,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CE EEE EEE EEE EEE EEE EEE EOE EEE EEE EEE EEE EEE EEE EEE EE EEE EEE EEE EEE EE EEE EEE EEE EEE ...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:44:07.458313"
+      },
+      {
+        "id": 117,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "WEEK IN REVIEW Activism fears @ Leading asset managers BlackRock and Vanguard cancelled meetings ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.471132"
+      },
+      {
+        "id": 118,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "DAN MCCRUM VistaJet\u2019s cash has dropped to its lowest level since the start of the pandemic after ...",
+        "categories": [
+          "Stocks",
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T10:44:07.485683"
+      },
+      {
+        "id": 119,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "ORTENCA ALIAJ AND MAXINE KELLY LONDON Four banks have agreed to pay fines totalling more than \u00a310...",
+        "categories": [
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T10:44:07.489819"
+      },
+      {
+        "id": 120,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "SEE EEE BOER EEE EEE EEE EEE EERE EEE EEE EERE EEE EE EEE EEE EE EEE EE EERE EEE EERE EERE EEE EE...",
+        "categories": [
+          "Commodities",
+          "Stocks",
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T10:44:07.500703"
+      },
+      {
+        "id": 121,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "TT TT ECT TTT EET TLE EEE LEE LEE LEE ELLE LEE ELLE LEE EEE LEE LEE L ELE LEE L LL EELEELLLELE LL...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.504948"
+      },
+      {
+        "id": 122,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "MARKET DATA 15 Change during previous day\u2019s trading (%) Nasdaq Composite Dow Jones Ind FTSE 100 F...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:44:07.508504"
+      },
+      {
+        "id": 123,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "AMERICA LONDON EURO MARKETS ACTIVE STOCKS stock close Day's ACTIVE STOCKS stock close Day's ACTIV...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:44:07.517137"
+      },
+      {
+        "id": 124,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CURRENCIES DOLLAR EURO POUND DOLLAR EURO POUND DOLLAR EURO POUND i Day's Closing Days Closing Day...",
+        "categories": [
+          "Real Estate"
+        ],
+        "processed_at": "2025-02-26T10:44:07.536454"
+      },
+      {
+        "id": 125,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "DOLLAR EURO Closing Day's Closing Day's Feb 21 Currency Mid e Mid .. Three Month 0.7911 0.0000 08...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.542950"
+      },
+      {
+        "id": 126,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "EEE EEE EEE EERE EEE EEE EEE EEE EERE REE EE EERE EERE EEE EEE EEE EERE EERE EEE EERE EEE EERE EE...",
+        "categories": [
+          "Commodities"
+        ],
+        "processed_at": "2025-02-26T10:44:07.560121"
+      },
+      {
+        "id": 127,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "BOND INDICES Day's Manth's Year Return Return index change change change 1 month | year Markit IB...",
+        "categories": [
+          "Stocks",
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T10:44:07.574866"
+      },
+      {
+        "id": 128,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "VOLATILITY INDICES Feb 21 Day Chna Prev 52 wk hegh 52 wk low Vix 15.75 0.09 15.66 65.73 10.62 VXD...",
+        "categories": [
+          "Inflation",
+          "Stocks",
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T10:44:07.601263"
+      },
+      {
+        "id": 129,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "FINANCIAL TIMES SHARE SERVICE FT Weekend 17 52 Week Vol Price 4/- H Low Yid P/E 000s ce & Defence...",
+        "categories": [
+          "Real Estate",
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:44:07.623071"
+      },
+      {
+        "id": 130,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "MC RNINGSTAR www.morningstar.co.uk reoeeeTy \u00ab lwreeimes = ARCHITOR TWEE | CARDENE gllouse<cHome A...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:44:07.635258"
+      },
+      {
+        "id": 131,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "FOR SALE BY PRIVATE TREATY Occupying a prime city centre location on Fleet Street in Temple Bar, ...",
+        "categories": [
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T10:44:07.638767"
+      },
+      {
+        "id": 132,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "LIFE BACK PAGE Agencies that resign on behalf of dissatisfied employees are putting pressure on J...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.645057"
+      },
+      {
+        "id": 133,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "EEE OEE EEE EEE EEE EEE EE EEE EERE EEE REE EEE EEE EERE EERE EES EERE EEE REE EERE EERE EEE EERE...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.662020"
+      },
+      {
+        "id": 134,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CEE EERE EERE SEER EEE EEE EEE EEE EERE EE EERE HERE EERE EERE EEE EERE EEE EEE EEE EE EEE EEE EE...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.667157"
+      },
+      {
+        "id": 135,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "LA BELLE MARAICHERE Place Sainte-Catherine Tia, 1000 Brussels Shrimp croquettes x2. \u20ac48 Sole meun...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.678806"
+      },
+      {
+        "id": 136,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "GOODWOOD FESTIVAL OF SPEED 10 \u201413 JULY * FT Weekend 22 February/23 February 2025 PEER EEE EEE EER...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.697025"
+      },
+      {
+        "id": 137,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CREE ESE EEE EERE EER EERE EEE EERE EE EERE EE EEE EEE EE EEE EERE EERE EE SEER EEE EERE EEE EEE ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.707214"
+      },
+      {
+        "id": 138,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CREE SERRE EERE EEE EERE EERE EERE EERE EEE EEE EE OEE EERE EEE EEE EERE EERE EERE EERE EERE EE E...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.725898"
+      },
+      {
+        "id": 139,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "COREE OEE EEE EEE EERE ER EEE ERE EEE EERE SERRE EERE EEE EE EEE EERE EERE DEERE EERE EEE EE EEE ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.737703"
+      },
+      {
+        "id": 140,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CERES EEE EERE EEE EERE EERE EERE EERE EE EEE EEE EEE EEE EERE EEE EE EEE EEE EEE EEE EEE EEE EEE...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.748479"
+      },
+      {
+        "id": 141,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "EXHIBITING AT TEFAF MAASTRICHT 2025 13 - 20 MARCH 2025 10 ohn Perry Barlow\u2019s intoxicating dream i...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.763639"
+      },
+      {
+        "id": 142,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "SERRE EEE EERE EERE EE EEE ERE E EE EEE EEE EE EEE AE EERE EEE EEE EEE EEE BEE EEE E EERE EEE EEE...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.767546"
+      },
+      {
+        "id": 143,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "AND BL IUD THE GERMAN PEASANTS\u2019 WAR in its narrative and perceptive in its assessments, making it...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.772505"
+      },
+      {
+        "id": 144,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "EEE EEE EEE EEE EEE EEE EEE EE EEE EEE EERE EEE EEE EEE EE EEE EEE EEE EEE EEE EERE EE EEE EE EE ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.786669"
+      },
+      {
+        "id": 145,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "HOWARD AMOS lages and a handful of pensioners remi- niscing about the Soviet Union and rail- ing ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.795738"
+      },
+      {
+        "id": 146,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "By Pilita Clark o we need a nuclear power revival? Is China going to wreck or save the climate? A...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.806742"
+      },
+      {
+        "id": 147,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CARRION CROW hallucination. Marguerite thinks often of someone named Alouette, whom Parry describ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.852285"
+      },
+      {
+        "id": 148,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CREE REE EERE EERE EEE EEE EERE EERE EERE EERE EEE EEE EERE EERE EERE EERE EEE EEE EERE EE EEE EE...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.865882"
+      },
+      {
+        "id": 149,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "TTT PTET TE EEE LLL LLL LLL LLL LLL LLL LLL LLL LL The Met | A virtuoso of close observation, Cas...",
+        "categories": [
+          "Commodities"
+        ],
+        "processed_at": "2025-02-26T10:44:07.877472"
+      },
+      {
+        "id": 150,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CEE EEE EEE EEE EEE EEE EERE EEE EEE EEE EERE EEE EE EEE OEE EEE EEE EEE EEE EEE EEE EE EEE EEE O...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.882703"
+      },
+      {
+        "id": 151,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "MAASTRICHT y \u2018 ,* ~~ o Ving t 7 + * ate 3 ve \u00a2 \u00a2- 8 i wF At : \u00e9 \u00b0 \u00bb i \u00e9. series a Striking verisi...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.887211"
+      },
+      {
+        "id": 152,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "SORES EERE ESE EEE EEE EEE EE EE MEE EERE EEE EE EE EEE EEE EEE SEE EES EEE EEE EEEE SEES DEEESEE...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.893084"
+      },
+      {
+        "id": 153,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CHESS LEONARD BARDEN Vincent Keymer achieved a career-best result last weekend when the 20- year-...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.897415"
+      },
+      {
+        "id": 154,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "BRIDGE PAUL MENDELSON On this deal \u2014 as witnessed on multiple occasions \u2014 many players seemed not...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.904856"
+      },
+      {
+        "id": 155,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "THE LIFE OF A SONG s winter continued to bite in early 1969, George Harrison was ina despondent m...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.911028"
+      },
+      {
+        "id": 156,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "PHOTO LONDON 10' EDITION SOAS-Alphawood Postgraduate Diploma in Asian Art Object-based study of t...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.924666"
+      },
+      {
+        "id": 157,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CERES EERE EEE EERE EERE EERE EERE EE EERE EERE EEE EEE EEE E EERE EE EEE REE E EE EEE EERE EEE E...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.945728"
+      },
+      {
+        "id": 158,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CREE EERE EEE EEE EEE EERE EEE EEE EERE EERE EE ERE EERE EEE EERE EEE EEE SERRE EEE EERE EEE EERE...",
+        "categories": [
+          "Commodities"
+        ],
+        "processed_at": "2025-02-26T10:44:07.952507"
+      },
+      {
+        "id": 159,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "EEE EEE EEE EEE EEE SEETHER EEE EEE EE EEE EE EEE EEE EERE EEE EEE EEE EEE EEE EEE EERE EE EEE EE...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.984236"
+      },
+      {
+        "id": 160,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "YOUR OPINION COUNTS Tell us what you think of Life & Arts and what you'd like to see in the futur...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.987407"
+      },
+      {
+        "id": 161,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "INTERIORS ARCHITEC TURE GARDENS _ Dahlias, Dior and me Cordelia de Castellane\u2019s couture idyll in ...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:07.993242"
+      },
+      {
+        "id": 162,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "HILELSBORE RESIDENCESHILLSBOROBEACH.COM thie clay. \u00b0 \u00bb *, - \u2018We want it to bea place where all so...",
+        "categories": [
+          "Real Estate"
+        ],
+        "processed_at": "2025-02-26T10:44:07.997185"
+      },
+      {
+        "id": 163,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CONDOMINIUM 11860 HILLSBORO MILE \\t the offeror and makes no representations wit! DOCUMENTS REQUI...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:08.024583"
+      },
+      {
+        "id": 164,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "WAT IE ILE LONDON Discover the last remaining residences at The Whiteley, London. Seamlessly blen...",
+        "categories": [
+          "Real Estate"
+        ],
+        "processed_at": "2025-02-26T10:44:08.058483"
+      },
+      {
+        "id": 165,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "CHILE REAL ESTATE INVESTMENT ent @) rtul y rroperti\u00ab REAL ESTATE +* CONSERVATION \u00ab NATURAL LIFEST...",
+        "categories": [
+          "Real Estate"
+        ],
+        "processed_at": "2025-02-26T10:44:08.062399"
+      },
+      {
+        "id": 166,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "SINGAPORE CONSERVATION SHOPHOUSE FOR SALE/ RENT Excellent for Family Office/ Asset Management/ Hi...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:08.068035"
+      },
+      {
+        "id": 167,
+        "source": "FT",
+        "date": "2025-02-22",
+        "title": "PRICES FROM 680.000\u20ac +351 914 071 129 vilamoura.pt FT Weekend book Tulips and Peacocks (Yale, 202...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T10:44:08.073306"
+      }
+    ],
+    "Economist": [
+      {
+        "id": 168,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "PLEASE ENJOY CHAMPAGNE RESPONOIBLY The Economist February 22nd 2025 Contents Onthe cover Expect a...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T11:19:31.463984"
+      },
+      {
+        "id": 169,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "PLEASE ENJOY CHAMPAGNE RESPONSIBLY The world this week Politics America held its first meeting wi...",
+        "categories": [
+          "Inflation"
+        ],
+        "processed_at": "2025-02-26T11:19:31.476709"
+      },
+      {
+        "id": 170,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "IGA SWIATEK DIGITAL-FIRST | CLOUD-FIRST | AI-FIRST = Whether sports or business champions evolve ...",
+        "categories": [
+          "Inflation",
+          "Stocks"
+        ],
+        "processed_at": "2025-02-26T11:19:31.500606"
+      },
+      {
+        "id": 171,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "PAUL BLEDSOE Professorial lecturer Centre for Environmental Policy American University Washington...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T11:19:31.505999"
+      },
+      {
+        "id": 172,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "ALEC DIETSCH Buffalo, New York There is plenty of evidence to suggest that the size of a ring is ...",
+        "categories": [
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T11:19:31.526158"
+      },
+      {
+        "id": 173,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "WASHINGTON DOGE has joined a war of ideas under the guise of a budget fight MIX OF MAGA purists a...",
+        "categories": [
+          "Inflation",
+          "Energy",
+          "Infrastructure"
+        ],
+        "processed_at": "2025-02-26T11:19:31.599389"
+      },
+      {
+        "id": 174,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "SOUTH SUDAN 400 km | \\ Sudan, areas of control, February 19th 2025 MSAF W&RSF Source: | homas van...",
+        "categories": [
+          "Inflation",
+          "Commodities"
+        ],
+        "processed_at": "2025-02-26T11:19:31.628398"
+      },
+      {
+        "id": 175,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "CHARLEMAGNE Europe 45 One month down, 47 to go Can Europe withstand four years of Trumpian assaul...",
+        "categories": [
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T11:19:31.651937"
+      },
+      {
+        "id": 176,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "MUNICH AND PARIS Present at the destruction Donald Trump is junking the transatlantic alliance, a...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T11:19:31.664145"
+      },
+      {
+        "id": 177,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "HONOLULU AND TAIPEI How Donald Irump\u2019s about-turn in Europe will affect Asia HE EARTHQUAKE in tra...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T11:19:31.668995"
+      },
+      {
+        "id": 178,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "THE TELEGRAM The Economist February 22nd 2025 Australia the lonely Australia has long relied on A...",
+        "categories": [
+          "Infrastructure"
+        ],
+        "processed_at": "2025-02-26T11:19:31.697561"
+      },
+      {
+        "id": 179,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "SCHUMPETER The Economist February 22nd 2025 The anti-ITrump Oscars As Silicon Valley embraces the...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T11:19:31.704079"
+      },
+      {
+        "id": 180,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "SAN FRANCISCO Investors fear that inflation is coming back. They may be right FTER PEAKING in 202...",
+        "categories": [
+          "Inflation",
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T11:19:31.731549"
+      },
+      {
+        "id": 181,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "FREE EXCHANGE Trump \u2019s crosshairs At first glance, reciprocal tariffs are a bureaucratic nightmar...",
+        "categories": [
+          "Infrastructure"
+        ],
+        "processed_at": "2025-02-26T11:19:31.754956"
+      },
+      {
+        "id": 182,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "JEJU ISLAND Han Kang, South Korea\u2019s first Nobel laureate in literature, chronicles shameful episo...",
+        "categories": [
+          "general"
+        ],
+        "processed_at": "2025-02-26T11:19:31.769206"
+      },
+      {
+        "id": 183,
+        "source": "Economist",
+        "date": "2025-02-25",
+        "title": "BACK STORY Paradise and the plague Culture 75 tent have almost 60m views on TikIok. These videos\u2014...",
+        "categories": [
+          "Bonds"
+        ],
+        "processed_at": "2025-02-26T11:19:31.790522"
+      }
+    ]
+  },
+  "article_count": 183,
+  "last_processed": "2025-02-26T11:19:31.793479"
+}
