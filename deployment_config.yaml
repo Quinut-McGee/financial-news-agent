@@ -1,0 +1,10 @@
+stdin: true # Whether the agent needs input from stdin
+name: Daily Bread - Macroeconomic Advisor
+summary: A macroeconomic advisor agent that analyzes financial publications, processes PDFs, and provides insights on various market categories like stocks, bonds, commodities, inflation, and real estate. It can summarize specific articles and generate narrative market analyses.
+environment_variables:
+  - name: NEARAI_API_URL
+    value: <your_nearai_api_url>
+    description: The base URL for the NEAR AI Hub API.
+  - name: NEARAI_AUTH
+    value: <your_nearai_auth_json_string>
+    description: The authentication token or API key for accessing the NEAR AI Hub. This value is expected to be a JSON string representing the authentication credentials.
